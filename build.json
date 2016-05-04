@@ -1,19 +1,21 @@
 {
   "config": {
     "frame": "THuG 180 V5 Lowrider",
-    "esc": "",
-    "motor": "",
-    "fc": "",
+    "esc": "RCX 20A (FVT Little Bee) BLHeli",
+    "motor": "RCX H2205 (V2) 2633KV",
+    "fc": "AbuseMark Afroflight Naze32 Acro",
     "prop": [
+      "DALprop T4045BN 3 Blade"
     ],
     "arm": "",
     "battery": [
+      "4S 1300mAh"
     ],
     "osd": "",
     "receiver": "",
-    "flightcam": "",
+    "flightcam": "Foxeer XAT600M HS1177",
     "hqcam": "",
-    "videotx": "",
+    "videotx": "Foxeer TM200 FPV Mini 5.8G 40CH 200mW",
     "blackbox": "",
     "voltagereg": ""
   },
